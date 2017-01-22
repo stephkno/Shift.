@@ -1,2 +1,2 @@
 # Shift.
-iOS puzzle game
+iOS puzzle game written in Swift. Downloadable in the app store.
